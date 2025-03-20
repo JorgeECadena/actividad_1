@@ -1,5 +1,6 @@
-# Actividad 1
+# Activity 1
 
-# Modificaciones
-- Se completó la función "rectangle"
-- Se completó la función "triangle"
+# Modifications
+- Completed the "rectangle" function
+- Completed the "triangle" function
+- I finished the function circle and added the color orange
